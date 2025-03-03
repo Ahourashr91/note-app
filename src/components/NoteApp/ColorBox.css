@@ -1,0 +1,9 @@
+.color-box{
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: 1px solid white;
+}
